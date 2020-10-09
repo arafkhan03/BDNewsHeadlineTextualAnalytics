@@ -1,18 +1,3 @@
-# THIS IS A SAMPLE WORKING FILE (R CODING) FOR ARAF TOA SANJEED KHAN
-
-# This file represents some of the coding works done so far for the completion of
-# Pet Project: "Web Scrapping of News Headlines for Articles on Bangladesh"
-# Please note loading and exporting of the datasets/plots just give the working 
-# directory of the author.
-
-# Check other works of the author at GitHub: https://github.com/arafkhan03
-# Check the author's profile at https://www.linkedin.com/in/arafkhan03/
-
-# Please contact +8801919663311 (Call/WhatsApp) for further queries
-
-
-
-
 #loading the package:
 library(xml2)
 library(rvest)
@@ -113,17 +98,3 @@ k
 
 # Write CSV in R
 write.csv(df_dataframe, file = "The Daily Asian Age 1 Jan 2017 to 16 February 2017 Headlines.csv")
-
-
-
-# THIS IS A SAMPLE WORKING FILE (R CODING) FOR ARAF TOA SANJEED KHAN
-
-# This file represents some of the coding works done so far for the completion of
-# Pet Project: "Web Scrapping of News Headlines for Articles on Bangladesh"
-# Please note loading and exporting of the datasets/plots just give the working 
-# directory of the author.
-
-# Check other works of the author at GitHub: https://github.com/arafkhan03
-# Check the author's profile at https://www.linkedin.com/in/arafkhan03/
-
-# Please contact +8801919663311 (Call/WhatsApp) for further queries
